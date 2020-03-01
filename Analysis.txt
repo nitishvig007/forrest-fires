@@ -1,0 +1,23 @@
+Conclusion :
+
+1. month showing most unpredictable trend with respect to temperature : August
+
+2. The month that recorded highest windspeed : March / Feb /  April / June 
+
+3. The month that recorded highest rainfall : August
+
+4. value of (X, Y) for maximum temperature : [6, 5]
+
+5. Relationship between DC and DMC : Increasing (Positive Correaltion)
+
+6. Since fires are majorly caused due to temperature and wind, so in Scenario 1 we are trying to predict temp and wind, based on prevoius data.
+	We got accuracy 75% and 14% respectively.	
+
+7. Since fires are caused in selective months, so in Scenario 2 we are trying to predict month, based on prevoius data
+	We got 97% accuracy
+
+
+
+
+
+
